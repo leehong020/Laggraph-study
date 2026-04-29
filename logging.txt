@@ -1,0 +1,15 @@
+Conversation History:
+User: hi
+AI: Hello! How can I assist you today?
+User: 我是lily
+AI: 你好，Lily！很高兴见到你！有什么我可以帮你的吗？
+User: 讲个笑话
+AI: 好的，给你讲个笑话：
+
+为什么自行车不能站起来？
+
+因为它太累了！  
+
+希望这个笑话能让你笑一笑！如果还想听其他的，随时告诉我哦！
+
+End of Conversation
